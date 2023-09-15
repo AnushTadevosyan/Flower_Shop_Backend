@@ -6,5 +6,5 @@ start running the app
 ### Notes
 
 Next up:
-1. add occasions, signiture boxes, vases, descriptions
-2. think about placing order -> cart -> buying -> making a sale
+1. create an occassion category that has sub-categories
+
